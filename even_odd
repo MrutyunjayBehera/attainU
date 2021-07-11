@@ -1,1 +1,11 @@
+print(enter the first num")
 
+1st_num = int(input())
+
+print("enter the second num")
+
+2nd_num = int(input())
+
+sum = 1st_num + 2nd_num
+
+print("the sum of two num is",sum)
