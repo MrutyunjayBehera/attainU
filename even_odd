@@ -1,0 +1,9 @@
+print("enter the value")
+
+user_input = int(input())
+
+if user_input % 2 == 0 :
+  print(user_input, " is even number")
+
+else:
+  print(user_input," is odd number")
